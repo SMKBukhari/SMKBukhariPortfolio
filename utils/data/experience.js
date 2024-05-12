@@ -8,7 +8,7 @@ export const experiences = [
   {
     id: 2,
     title: "Video Editor",
-    company: "The Truth Internation, Islamabad, Pakistan",
+    company: "The Truth International, Islamabad, Pakistan",
     duration: "(Jun 2023 - Jan 2024)"
   },
   {
