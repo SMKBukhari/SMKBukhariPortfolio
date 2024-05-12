@@ -12,7 +12,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://smkbukhari.netlify.app/).
 
 ---
 
@@ -104,26 +104,26 @@ NEXT_PUBLIC_RECAPTCHA_SECRET_KEY = # For captcha verification on contact form
 NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/SMKBukhari/SMKBukhariPortfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "Syed Muhammad Kaif Bukhari",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  description: "My name is Syed Muhammad Kaif Bukhari....",
+  email: "s.mkb2524@outlook.com",
+  phone: "+923259090028",
+  address: "Rawalpindi, Pakistan",
+  github: "https://github.com/SMKBukhari",
+  facebook: "",
+  linkedIn: "https://www.linkedin.com/in/smkbukhari/",
+  twitter: "",
+  stackOverflow: "https://stackoverflow.com/users/24885198/syed-muhammad-kaif-bukhari",
+  leetcode: "https://leetcode.com/u/MuhammadKaif5515/",
+  devUsername: "smkbukhari",
   resume: "...",
 };
 ```
