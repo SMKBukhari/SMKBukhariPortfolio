@@ -33,7 +33,7 @@ export const projectsData = [
         tools: ['React JS', 'Tailwind CSS', 'HTML', 'CSS', 'JavaScript', 'npm', 'VS Code Editor', "Git/Github"],
         code: '',
         role: 'Frontend Developer',
-        demo: '',
+        demo: 'https://smkbukhari.github.io/BrainWave-Website/',
         image: realEstate,
     },
     {
