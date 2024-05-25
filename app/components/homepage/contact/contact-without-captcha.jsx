@@ -45,9 +45,9 @@ function ContactWithoutCaptcha() {
       if (res.status === 200) {
         toast.success('Message sent successfully!');
         setInput({
-          name: '',
-          email: '',
-          message: '',
+          name: {from_name: input.name},
+          email: {email_id: input.email},
+          message: {message: input.message},
         });
       };
     } catch (error) {
