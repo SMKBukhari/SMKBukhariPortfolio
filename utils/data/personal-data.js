@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Syed Muhammad Kaif Bukhari",
-  profile: "/profile5.jpg",
+  profile: "/profileactive.jpg",
   designation: "MERN Stack Developer",
   description:
     "My name is Syed Muhammad Kaif Bukhari. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
@@ -16,5 +16,5 @@ export const personalData = {
   leetcode: "https://leetcode.com/u/MuhammadKaif5515/",
   devUsername: "smkbukhari",
   resume:
-    "https://drive.google.com/file/d/10hQQaCfMPShzuMKRDCN-oOWeKHcRex-4/view?usp=sharing",
+    "https://drive.google.com/file/d/1PMHrTx63qXQs_RDZHDoO2gFyOCmKf1vC/view?usp=sharing",
 };
