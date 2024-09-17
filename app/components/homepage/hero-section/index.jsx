@@ -46,13 +46,13 @@ function HeroSection() {
             >
               <BsLinkedin size={30} />
             </Link>
-            {/* <Link
+            <Link
               href={personalData.facebook}
               target='_blank'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
               <FaFacebook size={30} />
-            </Link> */}
+            </Link>
             <Link
               href={personalData.leetcode}
               target='_blank'
@@ -130,7 +130,15 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Node Js</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Next Js</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Cloudinary</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Mongo DB</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Prisma</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Clerk</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Git & Github</span>
                 <span className="text-gray-400">{"', '"}</span>

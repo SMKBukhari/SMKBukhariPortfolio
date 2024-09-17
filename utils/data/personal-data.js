@@ -3,12 +3,12 @@ export const personalData = {
   profile: "/profileactive.jpg",
   designation: "MERN Stack Developer",
   description:
-    "My name is Syed Muhammad Kaif Bukhari. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: "s.mkb2524@outlook.com",
+    `Founder and CEO of <a href='https://endvor.net' target='_blank' class='text-pink-500 uppercase' style='text-decoration: underline;' rel='noopener noreferrer'>Endvor</a>. I'm a passionate programmer who thrives on learning and exploring new tech. I'm deeply into web development, especially when it comes to JavaScript, my go-to tool for creating amazing web experiences. I believe in making the web more open and accessible for everyone. At <a href='https://endvor.net' target='_blank' style='text-decoration: underline;' class='text-pink-500 uppercase' rel='noopener noreferrer'>Endvor</a>, I lead a creative team focused on design, development, SEO, and video content, helping brands tell their stories through technology. I'm always open to opportunities that align with my skills and passions. Let's create something great together!`,
+  email: "ceokaifbukhari@endvor.net",
   phone: "+923259090028",
-  address: "Rawalpindi, Pakistan",
+  address: "Islamabad, Pakistan",
   github: "https://github.com/SMKBukhari",
-  facebook: "",
+  facebook: "https://www.facebook.com/profile.php?id=61556008088819&mibextid=ZbWKwL",
   linkedIn: "https://www.linkedin.com/in/smkbukhari/",
   twitter: "",
   stackOverflow:
