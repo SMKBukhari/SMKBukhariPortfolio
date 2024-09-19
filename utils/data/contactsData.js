@@ -1,5 +1,5 @@
 export const contactsData = {
-    email: 's.mkb2524@outlook.com',
+    email: 'ceokaifbukhari@endvor.net',
     phone: '+923259090028',
     address: 'Rawalpindi, Pakistan',
     github: 'https://github.com/SMKBukhari',
